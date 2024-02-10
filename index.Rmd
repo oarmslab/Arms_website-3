@@ -1,0 +1,30 @@
+---
+title: "PURE DERMA"
+image: "PURE_DERMA.jpg"
+links:
+  - label: Facebook
+    url: "https://www.facebook.com/profile.php?id=61553415803408 target = '_blank' "
+  - label: Instagram
+    url: "https://www.instagram.com/enow1736?igsh=MWplMjV0NzBwM2xjdA== target = '_blank' "
+  - label: Email
+    url: "mailto:enowjane5@mail.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+Hi , I’m Enow Jane, a nurse, trained business and wellness oriflame coach, and consultant . I bring to you PURE DERMA « nourish to Blossom » a well known brand which is out to solve skin related issues  , lose weight ,stay fit  and Also help people start up a business with oriflame.                      
+ 
+My goal is to make you look great  by using our very authentic cosmetic products, have fun, and make money with ORIFLAME.
+
+
+## Education
+
+**Biaka University Institute of Buea** | Buea, Cameroon
+
+BSc. Nursing | October 2018 - August 2022
+
+
+## Experience
